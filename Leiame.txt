@@ -1,0 +1,8 @@
+Javascript
+----------
+
+- Install plugin VSCode Code Runner, permite rodar codigos direto do VSCode, atalho,
+- control + alt + n, necessário NodeJS instalado, pois ele usa o node para executar o arquivo
+
+- https://repl.it/repls
+- Ferramenta de debug no navegador
